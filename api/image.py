@@ -50,7 +50,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": True, # Redirect to a webpage?
+        "redirect": False, # Redirect to a webpage?
         "page": "https://media-ten.z-cdn.me/h2qZEYz_AdcAAAAM/yikes-monkey-look-and-leave-yikes-monkey.gif" # Link to the webpage to redirect to 
     },
 
